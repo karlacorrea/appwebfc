@@ -1,0 +1,104 @@
+/* CORES DO PROJETO. COLOCAR NO ATRIBUTO CLASS DO HTML */
+.bg-vermelho{background-color: #9e2020!important}
+.bg-azul{background-color: #0f5f91!important}
+.bg-cinza{background-color: #bdbdbd!important}
+.vermelho{color: #9e2020!important}
+.azul{color: #0f5f91!important}
+.cinza{color: #bdbdbd!important}
+
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+nav ul li a{
+	font-size:1.2em !important;
+}
+
+footer{
+	margin-top:5%;
+}
+
+.stileFieldset{
+	margin-top:2%;
+}
+#test #test1 #test2 {
+	display: inline !important;
+}
+
+.dropdown-content li>a, .dropdown-content li>span {
+    color: #0f5f91!important;
+}
+.picker__date-display {
+    background-color: #0f5f91!important;
+}
+.picker__close, .picker__today, .picker__clear {
+    color: #0f5f91!important;
+}
+.switch label input[type=checkbox]:checked+.lever {
+    background-color: #0f5f91!important;
+	
+}
+.switch label input[type=checkbox]:checked+.lever:after {
+    background-color: #0f5f91!important;
+	
+}
+[type="checkbox"]:checked+label:before {
+    border-right: 2px solid #0f5f91!important;
+    border-bottom: 2px solid #0f5f91!important;
+}
+.picker__day.picker__day--today {
+    color: #0f5f91!important;
+}
+.picker__day--selected, .picker__day--selected:hover, .picker--focused .picker__day--selected {
+    background-color: #0f5f91!important;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: #0f5f91!important;    
+}
+.card .card-content p {
+    font-size: 17px!important;
+}
+input[type=range]+.thumb {
+    background-color: #0f5f91!important;
+}
+input[type=range]+.thumb .value {
+    color: #26a69a;
+    font-size: 0;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+#plagioGoogle{
+	margin-top:150px;
+}
+
+.pesquisar{
+	font-size:50px!important;
+	padding-bottom:10px!important;
+	border-bottom: 2px solid #0f5f91!important;
+}
+::-webkit-input-placeholder { /* WebKit browsers */
+  color: #737373!important;
+  text-align: center!important;
+}
+
+footer{
+	position: fixed;
+	bottom:0;
+	right:0;
+	left:0;
+	size:100px;
+	margin-top: 10px!important;
+	padding-top: 0px!important;
+}
+#rodape{
+	margin-bottom: 0px!important;
+}
+input[type=range]+.thumb {
+    background-color: #0f5f91!important;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: #fff!important;
+}
+.btn, .btn-large, .btn-flat {
+    margin-top: 10px;
+}
